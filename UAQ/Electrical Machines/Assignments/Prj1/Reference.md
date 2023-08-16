@@ -1,0 +1,1 @@
+# Al-Nuaim N A, Toliyat H. A novel method for modeling dynamic air-gap eccentricity in synchronous machines based on modified winding function theory[J]. IEEE Transactions on energy conversion, 1998, 13(2): 156-162.
